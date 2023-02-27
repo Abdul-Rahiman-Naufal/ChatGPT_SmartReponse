@@ -1,4 +1,4 @@
-# ChatGPT_SmartReponse
+# ChatGPT SmartReponse
 LogRhythm SRP - ChatGPT
 
 
