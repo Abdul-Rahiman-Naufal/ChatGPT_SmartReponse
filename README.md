@@ -12,7 +12,6 @@ ChatGPT_SmartResponse contains two actions
 4.	Install openai module using pip (pip install openai)
 5.	Import ChatGPT_SmartResponse plugin
 6.	Run “configuration” action to save API keys
- ![image](https://user-images.githubusercontent.com/79724838/221573114-32ae0697-85f2-463b-abff-d36910063f55.png)
 
 
 
